@@ -1,15 +1,15 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.0.7",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "name": "HessProjects-Launcher",
+    "preductname": "HessProjects Launcher",
+    "version": "1.0.0",
+    "description": "Launcher Mincraft pour les projets Hess",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "name": "ZipName",
+        "email": "contact@hessmc.net",
+        "url": "https://github.com/zipname80"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "https://launcher.hessmc.net/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/ZipName80/HessProjects-Launcher.git"
     }
 }
