@@ -1,7 +1,7 @@
 {
     "name": "HessProjects-Launcher",
     "preductname": "HessProjects Launcher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Launcher Mincraft pour les projets Hess",
     "main": "src/app.js",
     "author": {
